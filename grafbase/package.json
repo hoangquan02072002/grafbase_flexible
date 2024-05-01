@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@grafbase/sdk": "^0.21.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1610.0"
   }
 }

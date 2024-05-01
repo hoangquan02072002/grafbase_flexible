@@ -1,5 +1,6 @@
-import { g, config, auth, } from '@grafbase/sdk';
-
+import { config, auth, } from '@grafbase/sdk';
+// @ts-ignore
+import { g } from 'sdk_1';
 // @ts-ignore
 const User = g.model('User', {
   name: g.string().length({ min: 2, max: 100 }),
