@@ -11,6 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.19",
     "@types/jsonwebtoken": "^9.0.6",
+    "autoprefixer": "^10.4.19",
     "cloudinary": "^2.2.0",
     "graph": "^0.2.0",
     "graphql-request": "^6.1.0",
